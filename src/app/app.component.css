@@ -1,0 +1,36 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.container{
+  width: 1000px;
+  margin: auto;
+  padding: 15px;
+}
+.scoreform{
+  display: inline-block;
+  position: relative;
+  width: 400px;
+  left: 0px;
+  vertical-align: top;
+}
+
+.scoreform h1{
+  margin-bottom: 20px;
+}
+
+.scoreform button{
+  width: 265px;
+  margin-top: 20px;
+}
+
+.scoreboard{
+  display:inline-block;
+  position: relative;
+  width: 400px;
+  right: 0px;
+}
+.red { color: red}
+.orange{ color: orange}
+.green {color: green}
+.blue{color: blue}
